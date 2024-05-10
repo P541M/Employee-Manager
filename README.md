@@ -1,0 +1,20 @@
+
+# Employee Management System
+This project is a C-based program for managing employee records. It includes features for adding, removing, and searching employees by ID or name, as well as checking for duplicate IDs and counting employees. The project is organized into multiple C files for modularity and includes a makefile for easy compilation.
+## Installation
+
+```
+git clone https://github.com/P541M/Employee-Manager.git
+cd Employee-Manager
+```
+
+## Compiling/Execution
+
+```
+make
+./bin/proFile
+```
+
+
+## Contact
+Psalm Eleazar G. Videna - [Email](mailto:videna.psalmeleazar@gmail.com) - [LinkedIn](https://www.linkedin.com/in/pevidena/) - [GitHub](https://github.com/P541M)
